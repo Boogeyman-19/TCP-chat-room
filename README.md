@@ -87,4 +87,3 @@ Feel free to contribute to the project by submitting a pull request or opening a
 
 ---
 
-Feel free to replace `your-username` with your actual GitHub username and make any additional modifications to fit your project.
